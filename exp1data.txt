@@ -1,5 +1,5 @@
 Number	Name	Weight
-1	Jaspreet	60
+1Jaspreet	60
 2	Kartik	70
 3	Vishal	75
 4	Raman	55
